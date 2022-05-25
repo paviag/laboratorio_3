@@ -1,0 +1,16 @@
+Paga $90 por Propiedad	Suerte	<html><center>Debes redecorar todas tus<br>propiedades. Paga un valor por<br>cada propiedad.</center></html>
+Paga $1000	Suerte	<html><center>Compraste una parcela<br>en el jardín de Chococat.<br>Paga el precio.</center></html>
+Paga $100 por Propiedad	Suerte	<html><center>¡Hora de los impuestos!<br>Paga por cada propiedad.</center></html>
+Paga $300	Suerte	<html><center>Fuiste a un festival<br>de música. Paga por la<br>entrada.</center></html>
+Paga $150	Suerte	<html><center>Te multaron por distraerte<br>mientras conducías. Paga<br>la multa.</center></html>
+Recibe $1000	Suerte	<html><center>¡Ganaste la lotería!<br>Recibe tu premio.</center></html>
+Recibe $300	Suerte	<html><center>¡Tus cultivos florecieron<br>en abundancia! Recibe las<br>ganancias de venderlos.</center></html>
+Recibe $80	Suerte	<html><center>Vendes tu entrada al<br>teatro por Internet,<br>recibe el pago.</center></html>
+Regresa 3 casillas 	Suerte	<html><center>¡No puedes pasar!<br>Retrocede.</center></html>
+Avanza a Cine Kiki y Lala	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza a Estación de Kitty	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza a la Cárcel	Suerte	<html><center>Olvidaste pagar impuestos.<br>Vas a la cárcel.<br>No pases por Salida.<br>No recibes $200.</center></html>
+Avanza a Salida	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Recibe $200.</center></html>
+Avanza a Cafetería de Kitty	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza a Heladería Chococat	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Salga de la Cárcel gratis	Suerte	<html><center>Puedes conservar esta<br>tarjeta hasta que<br>la necesites.</center></html>

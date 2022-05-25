@@ -1,0 +1,16 @@
+Recibe $70	Cofre Comunitario	<html><center>¡Ganaste un concurso de la<br>Heladería Tuxedo Sam!<br>Recibe tu premio.</html></center>
+Recibe $800	Cofre Comunitario	<html><center>Tus esmeraldas se exportan<br>en el mercado europeo.<br>Recibes compensación.</html></center>
+Recibe $100	Cofre Comunitario	<html><center>Vendiste tu ropa vieja.<br>Recibe el dinero<br>ganado.</html></center>
+Recibe $250	Cofre Comunitario	<html><center>Ganaste un día de buceo<br>en las islas cercanas.<br>Canjeas el premio por dinero.</html></center>
+Recibe $400	Cofre Comunitario	<html><center>Heredaste $1200, pero lo<br>repartes con tu familia.<br>Recibe tu parte.</html></center>
+Recibe $300	Cofre Comunitario	<html><center>Vendiste tus cultivos de<br>tomate a la Hamburguesería.<br>Recibe tu pago.</html></center>
+Recibe $600	Cofre Comunitario	<html><center>El candelabro del castillo<br>cayó sobre ti. Kiki y Lala<br>quieren ofrecerte una<br>compensación.</html></center>
+Recibe $200 por jugador	Cofre Comunitario	<html><center>Alquilaste tu casa para<br>año nuevo. Cobra un<br>costo a cada jugador.</html></center>
+Paga $500	Cofre Comunitario	<html><center>Paga por una visita al<br>castillo de Kiki y Lala.</html></center>
+Paga $700	Cofre Comunitario	<html><center>Alquilaste el jardín de<br>Chococat para una fiesta.<br>Paga el costo.</html></center>
+Paga $150	Cofre Comunitario	<html><center>Visitaste a tus familiares<br>en otro país. Paga el<br>costo del viaje.</html></center>
+Paga $100	Cofre Comunitario	<html><center>Ibas sin gafas y<br>pasaste una luz roja.<br>Paga una multa.</html></center>
+Avanza a Salida	Cofre Comunitario	<html><center>Muévete hasta la<br>casilla indicada.<br>Recibe $200.</html></center>
+Regresa a Panadería Cinnamaroll	Cofre Comunitario	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibe $200.</html></center>
+Avanza a la Cárcel	Cofre Comunitario	<html><center>¡Te investigan por robar dulces!<br>Vas a la cárcel.<br>No pases por Salida.<br>No recibes $200.</html></center>
+Salga de la Cárcel gratis	Cofre Comunitario	<html><center>Puedes conservar esta<br>tarjeta hasta que<br>la necesites.</html></center>
