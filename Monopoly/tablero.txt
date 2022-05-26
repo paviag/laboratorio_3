@@ -1,0 +1,40 @@
+Salida	Salida	670,670			
+Jardín Chococat	Propiedad	606,670	60	2	149,84,54
+Cofre comunitario	Cofre Comunitario	543,670	Obtén una carta de la pila.		
+Hamburguesería DokiDoki	Propiedad	480,670	60	4	149,84,54
+Impuestos	Impuestos	417,670	200		
+Estación de Kitty	Estación	354,670	200	25	255,255,255
+Heladería Tuxedo Sam	Propiedad	291,670	100	6	127,218,250
+Suerte	Suerte	228,670	Obtén una carta de la pila.		
+Panadería Cinnamaroll	Propiedad	165,670	100	6	127,218,250
+Castillo Kiki y Lala	Propiedad	102,670	120	8	127,218,250
+Carcel	Cárcel	0,670	50		
+Heladería Chococat	Propiedad	0,606	140	10	247,20,136
+Compañía Eléctrica	Servicio	0,543	150	0	255,255,255
+Cine Kiki y Lala	Propiedad	0,480	140	10	247,20,136
+Restaurante de Sushi Keroppi	Propiedad	0,417	160	12	247,20,136
+Estación de Melody	Estación	0,354	200	25	255,255,255
+Tienda de música Melody	Propiedad	0,291	180	14	255,129,0
+Cofre comunitario	Cofre Comunitario	0,228	Obtén una carta de la pila.		
+Cafetería de Kitty	Propiedad	0,165	180	14	255,129,0
+Boutique de Tuxedo Sam	Propiedad	0,102	200	16	255,129,0
+Parking gratuito	Parking gratuito	0,0			
+Tienda deportiva Pochacco	Propiedad	102,0	220	18	255,0,25
+Suerte	Suerte	165,0	Obtén una carta de la pila.		
+Mini tienda Keroppi	Propiedad	228,0	220	18	255,0,25
+Salón de Badtz Maru	Propiedad	291,0	240	20	255,0,25
+Estación de Kuromi	Estación	354,0	200	25	255,255,255
+Centro Acuático Hangyodon	Propiedad	417,0	260	22	255,243,0
+Skates de Kitty	Propiedad	480,0	260	22	255,243,0
+Compañía de Aguas	Servicio	543,0	150	0	255,255,255
+Cafetería de Cinnamoroll	Propiedad	606,0	280	24	255,243,0
+Ve a la carcel	A Cárcel	669,0			
+Dulcería de Kuromi	Propiedad	670,102	300	26	0,169,65
+Restaurante de Pompompurin	Propiedad	670,165	300	26	0,169,65
+Cofre comunitario	Cofre Comunitario	670,228	Obtén una carta de la pila.		
+Boliche de Badtz Maru	Propiedad	670,291	320	28	0,169,65
+Estación de Chococat	Estación	670,354	200	25	255,255,255
+Suerte	Suerte	670,417	Obtén una carta de la pila.		
+Floristería de Melody	Propiedad	670,480	350	35	0,92,176
+Impuestos de lujo	Impuestos	670,543	100		
+Hotel de Hello Kitty	Propiedad	670,606	400	50	0,92,176
